@@ -1,6 +1,6 @@
 'use strict'
 const exec = require('child_process').exec
-const projectUrl = 'https://github.com/screetBloom/wecat.js.git'
+const projectUrl = 'https://github.com/zhangyonglan/zyl-cli.git'
 
 module.exports = () => {
     console.log('this is my first commander >>>>>> ')
